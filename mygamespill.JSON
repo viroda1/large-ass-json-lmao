@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "title": "1",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl1.html",
+    "launchCode": "CL_1"
+  },
+  {
+    "id": 2,
+    "title": "10bullets",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl10bullets.html",
+    "launchCode": "CL_10BULLETS"
+  },
+  {
+    "id": 3,
+    "title": "10minutestildawn",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl10minutestildawn.html",
+    "launchCode": "CL_10_MIN_TILL_DAWN"
+  },
+  {
+    "id": 4,
+    "title": "12minibattles",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl12minibattles.html",
+    "launchCode": "CL_12_MINI_BATTLES"
+  },
+  {
+    "id": 5,
+    "title": "1on1soccer",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl1on1soccer.html",
+    "launchCode": "CL_1ON1_SOCCER"
+  },
+  {
+    "id": 6,
+    "title": "1v1lol",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl1v1lol.html",
+    "launchCode": "CL_1V1_LOL"
+  },
+  {
+    "id": 7,
+    "title": "1v1tennis",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl1v1tennis.html",
+    "launchCode": "CL_1V1_TENNIS"
+  },
+  {
+    "id": 8,
+    "title": "2048",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl2048.html",
+    "launchCode": "CL_2048"
+  },
+  {
+    "id": 9,
+    "title": "2048cupcakes",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl2048cupcakes.html",
+    "launchCode": "CL_2048_CUPCAKES"
+  },
+  {
+    "id": 10,
+    "title": "2doom",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl2doom.html",
+    "launchCode": "CL_2DOOM"
+  },
+  {
+    "id": 11,
+    "title": "2Dshooting",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl2Dshooting.html",
+    "launchCode": "CL_2D_SHOOTING"
+  },
+  {
+    "id": 12,
+    "title": "3dash",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl3dash.html",
+    "launchCode": "CL_3DASH"
+  },
+  {
+    "id": 13,
+    "title": "3pandas",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl3pandas.html",
+    "launchCode": "CL_3_PANDAS"
+  },
+  {
+    "id": 14,
+    "title": "3pandasbrazil",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl3pandasbrazil.html",
+    "launchCode": "CL_3_PANDAS_BRAZIL"
+  },
+  {
+    "id": 15,
+    "title": "3pandasfantasy",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl3pandasfantasy.html",
+    "launchCode": "CL_3_PANDAS_FANTASY"
+  },
+  {
+    "id": 16,
+    "title": "3pandasjapan",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl3pandasjapan.html",
+    "launchCode": "CL_3_PANDAS_JAPAN"
+  },
+  {
+    "id": 17,
+    "title": "3pandasnight",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl3pandasnight.html",
+    "launchCode": "CL_3_PANDAS_NIGHT"
+  },
+  {
+    "id": 18,
+    "title": "3slices2",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl3slices2.html",
+    "launchCode": "CL_3_SLICES_2"
+  },
+  {
+    "id": 19,
+    "title": "40xescape",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl40xescape.html",
+    "launchCode": "CL_40X_ESCAPE"
+  },
+  {
+    "id": 20,
+    "title": "4thandgoal",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl4thandgoal.html",
+    "launchCode": "CL_4TH_AND_GOAL"
+  },
+  {
+    "id": 21,
+    "title": "500calibercontractz",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl500calibercontractz.html",
+    "launchCode": "CL_500_CALIBER_CONTRACTZ"
+  },
+  {
+    "id": 22,
+    "title": "60secondsburgerrun",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl60secondsburgerrun.html",
+    "launchCode": "CL_60_SECONDS_BURGER_RUN"
+  },
+  {
+    "id": 23,
+    "title": "60secondssantarun",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl60secondssantarun.html",
+    "launchCode": "CL_60_SECONDS_SANTA_RUN"
+  },
+  {
+    "id": 24,
+    "title": "8ballclassic",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl8ballclassic.html",
+    "launchCode": "CL_8BALL_CLASSIC"
+  },
+  {
+    "id": 25,
+    "title": "8ballpool",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl8ballpool.html",
+    "launchCode": "CL_8BALL_POOL"
+  },
+  {
+    "id": 26,
+    "title": "9007199254740992",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl9007199254740992.html",
+    "launchCode": "CL_9007199254740992"
+  },
+  {
+    "id": 27,
+    "title": "99balls",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl99balls.html",
+    "launchCode": "CL_99_BALLS"
+  },
+  {
+    "id": 28,
+    "title": "99nightsitf",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl99nightsitf.html",
+    "launchCode": "CL_99_NIGHTS_ITF"
+  },
+  {
+    "id": 29,
+    "title": "abandoned3",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clabandoned3.html",
+    "launchCode": "CL_ABANDONED_3"
+  },
+  {
+    "id": 30,
+    "title": "absolutemadness",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clabsolutemadness.html",
+    "launchCode": "CL_ABSOLUTE_MADNESS"
+  },
+  {
+    "id": 31,
+    "title": "acecombat2",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clacecombat2.html",
+    "launchCode": "CL_ACE_COMBAT_2"
+  },
+  {
+    "id": 32,
+    "title": "acecombat3",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clacecombat3.html",
+    "launchCode": "CL_ACE_COMBAT_3"
+  },
+  {
+    "id": 33,
+    "title": "acegangstertaxi",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clacegangstertaxi.html",
+    "launchCode": "CL_ACE_GANGSTER_TAXI"
+  },
+  {
+    "id": 34,
+    "title": "achievementunlocked",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clachievementunlocked.html",
+    "launchCode": "CL_ACHIEVEMENT_UNLOCKED"
+  },
+  {
+    "id": 35,
+    "title": "achievmentunlocked",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clachievmentunlocked.html",
+    "launchCode": "CL_ACHIEVMENT_UNLOCKED"
+  },
+  {
+    "id": 36,
+    "title": "achievmentunlocked2",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clachievmentunlocked2.html",
+    "launchCode": "CL_ACHIEVMENT_UNLOCKED_2"
+  },
+  {
+    "id": 37,
+    "title": "achievmentunlocked3",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clachievmentunlocked3.html",
+    "launchCode": "CL_ACHIEVMENT_UNLOCKED_3"
+  },
+  {
+    "id": 38,
+    "title": "achillies",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clachillies.html",
+    "launchCode": "CL_ACHILLIES"
+  },
+  {
+    "id": 39,
+    "title": "achillies2",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clachillies2.html",
+    "launchCode": "CL_ACHILLIES_2"
+  },
+  {
+    "id": 40,
+    "title": "ADarkRoom",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clADarkRoom.html",
+    "launchCode": "CL_A_DARK_ROOM"
+  },
+  {
+    "id": 41,
+    "title": "adayintheoffice",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cladayintheoffice.html",
+    "launchCode": "CL_A_DAY_IN_THE_OFFICE"
+  },
+  {
+    "id": 42,
+    "title": "ADOFAI",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clADOFAI.html",
+    "launchCode": "CL_ADOFAI"
+  },
+  {
+    "id": 43,
+    "title": "advancewars",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cladvancewars.html",
+    "launchCode": "CL_ADVANCE_WARS"
+  },
+  {
+    "id": 44,
+    "title": "advancewars2",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cladvancewars2.html",
+    "launchCode": "CL_ADVANCE_WARS_2"
+  },
+  {
+    "id": 45,
+    "title": "adventneon",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cladventneon.html",
+    "launchCode": "CL_ADVENT_NEON"
+  },
+  {
+    "id": 46,
+    "title": "AdventureCapatalist",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clAdventureCapatalist.html",
+    "launchCode": "CL_ADVENTURE_CAPATALIST"
+  },
+  {
+    "id": 47,
+    "title": "adventurecapitalist",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cladventurecapitalist.html",
+    "launchCode": "CL_ADVENTURE_CAPITALIST"
+  },
+  {
+    "id": 48,
+    "title": "agariolite",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clagariolite.html",
+    "launchCode": "CL_AGAR_IO_LITE"
+  },
+  {
+    "id": 49,
+    "title": "ageofwar",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clageofwar.html",
+    "launchCode": "CL_AGE_OF_WAR"
+  },
+  {
+    "id": 50,
+    "title": "ageofwar2",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clageofwar2.html",
+    "launchCode": "CL_AGE_OF_WAR_2"
+  },
+  {
+    "id": 51,
+    "title": "agesofconflict",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clagesofconflict.html",
+    "launchCode": "CL_AGES_OF_CONFLICT"
+  },
+  {
+    "id": 52,
+    "title": "ahoysurvival",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clahoysurvival.html",
+    "launchCode": "CL_AHOY_SURVIVAL"
+  },
+  {
+    "id": 53,
+    "title": "ai",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clai.html",
+    "launchCode": "CL_AI"
+  },
+  {
+    "id": 54,
+    "title": "akoopasrevenge",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clakoopasrevenge.html",
+    "launchCode": "CL_A_KOOPAS_REVENGE"
+  },
+  {
+    "id": 55,
+    "title": "akoopasrevenge2",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clakoopasrevenge2.html",
+    "launchCode": "CL_A_KOOPAS_REVENGE_2"
+  },
+  {
+    "id": 56,
+    "title": "akumanorgaiden",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clakumanorgaiden.html",
+    "launchCode": "CL_AKUMA_NOR_GAIDEN"
+  },
+  {
+    "id": 57,
+    "title": "alienhominid",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clalienhominid.html",
+    "launchCode": "CL_ALIEN_HOMINID"
+  },
+  {
+    "id": 58,
+    "title": "alienhominidgba",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clalienhominidgba.html",
+    "launchCode": "CL_ALIEN_HOMINID_GBA"
+  },
+  {
+    "id": 59,
+    "title": "alienskyinvasion",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clalienskyinvasion.html",
+    "launchCode": "CL_ALIEN_SKY_INVASION"
+  },
+  {
+    "id": 60,
+    "title": "alientransporter",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clalientransporter.html",
+    "launchCode": "CL_ALIEN_TRANSPORTER"
+  },
+  {
+    "id": 61,
+    "title": "alienvspredator",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clalienvspredator.html",
+    "launchCode": "CL_ALIEN_VS_PREDATOR"
+  },
+  {
+    "id": 62,
+    "title": "allbossesin1",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clallbossesin1.html",
+    "launchCode": "CL_ALL_BOSSES_IN_1"
+  },
+  {
+    "id": 63,
+    "title": "allocation",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clallocation.html",
+    "launchCode": "CL_ALLOCATION"
+  },
+  {
+    "id": 64,
+    "title": "amaze",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clamaze.html",
+    "launchCode": "CL_AMAZE"
+  },
+  {
+    "id": 65,
+    "title": "amidstthesky",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clamidstthesky.html",
+    "launchCode": "CL_AMIDST_THE_SKY"
+  },
+  {
+    "id": 66,
+    "title": "amigopancho",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clamigopancho.html",
+    "launchCode": "CL_AMIGO_PANCHO"
+  },
+  {
+    "id": 67,
+    "title": "amigopancho2",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clamigopancho2.html",
+    "launchCode": "CL_AMIGO_PANCHO_2"
+  },
+  {
+    "id": 68,
+    "title": "amigopancho3",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clamigopancho3.html",
+    "launchCode": "CL_AMIGO_PANCHO_3"
+  },
+  {
+    "id": 69,
+    "title": "amigopancho4",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clamigopancho4.html",
+    "launchCode": "CL_AMIGO_PANCHO_4"
+  },
+  {
+    "id": 70,
+    "title": "amigopancho5",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clamigopancho5.html",
+    "launchCode": "CL_AMIGO_PANCHO_5"
+  },
+  {
+    "id": 71,
+    "title": "amigopancho6",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clamigopancho6.html",
+    "launchCode": "CL_AMIGO_PANCHO_6"
+  },
+  {
+    "id": 72,
+    "title": "amigopancho7",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clamigopancho7.html",
+    "launchCode": "CL_AMIGO_PANCHO_7"
+  },
+  {
+    "id": 73,
+    "title": "amongus",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clamongus.html",
+    "launchCode": "CL_AMONG_US"
+  },
+  {
+    "id": 74,
+    "title": "amorphous",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clamorphous.html",
+    "launchCode": "CL_AMORPHOUS"
+  },
+  {
+    "id": 75,
+    "title": "ancientsins",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clancientsins.html",
+    "launchCode": "CL_ANCIENT_SINS"
+  },
+  {
+    "id": 76,
+    "title": "angry-birdsspace",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clangry-birdsspace.html",
+    "launchCode": "CL_ANGRY_BIRDS_SPACE"
+  },
+  {
+    "id": 77,
+    "title": "angrybirds-space",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clangrybirds-space.html",
+    "launchCode": "CL_ANGRY_BIRDS_SPACE_2"
+  },
+  {
+    "id": 78,
+    "title": "angrybirds",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clangrybirds.html",
+    "launchCode": "CL_ANGRY_BIRDS"
+  },
+  {
+    "id": 79,
+    "title": "angrybirdsshowdown",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clangrybirdsshowdown.html",
+    "launchCode": "CL_ANGRY_BIRDS_SHOWDOWN"
+  },
+  {
+    "id": 80,
+    "title": "angrybirdsspace",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clangrybirdsspace.html",
+    "launchCode": "CL_ANGRY_BIRDS_SPACE_3"
+  },
+  {
+    "id": 81,
+    "title": "animalcrossingwildworld",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clanimalcrossingwildworld.html",
+    "launchCode": "CL_ANIMAL_CROSSING_WILD_WORLD"
+  },
+  {
+    "id": 82,
+    "title": "anotherworld",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clanotherworld.html",
+    "launchCode": "CL_ANOTHER_WORLD"
+  },
+  {
+    "id": 83,
+    "title": "apotris",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clapotris.html",
+    "launchCode": "CL_APOTRIS"
+  },
+  {
+    "id": 84,
+    "title": "appleshooter",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clappleshooter.html",
+    "launchCode": "CL_APPLE_SHOOTER"
+  },
+  {
+    "id": 85,
+    "title": "appleworm",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clappleworm.html",
+    "launchCode": "CL_APPLE_WORM"
+  },
+  {
+    "id": 86,
+    "title": "aquaparkio",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/claquaparkio.html",
+    "launchCode": "CL_AQUA_PARK_IO"
+  },
+  {
+    "id": 87,
+    "title": "arceuslegend",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clarceuslegend.html",
+    "launchCode": "CL_ARCEUS_LEGEND"
+  },
+  {
+    "id": 88,
+    "title": "archeryworldtour",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clarcheryworldtour.html",
+    "launchCode": "CL_ARCHERY_WORLD_TOUR"
+  },
+  {
+    "id": 89,
+    "title": "arena",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clarena.html",
+    "launchCode": "CL_ARENA"
+  },
+  {
+    "id": 90,
+    "title": "armormayhem2",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clarmormayhem2.html",
+    "launchCode": "CL_ARMOR_MAYHEM_2"
+  },
+  {
+    "id": 91,
+    "title": "arsonate",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clarsonate.html",
+    "launchCode": "CL_ARSONATE"
+  },
+  {
+    "id": 92,
+    "title": "ascent",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clascent.html",
+    "launchCode": "CL_ASCENT"
+  },
+  {
+    "id": 93,
+    "title": "asmallworldcup",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clasmallworldcup.html",
+    "launchCode": "CL_A_SMALL_WORLD_CUP"
+  },
+  {
+    "id": 94,
+    "title": "assessmentexaminationque",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/classesmentexaminationque.html",
+    "launchCode": "CL_ASSESSMENT_EXAMINATION_QUE"
+  },
+  {
+    "id": 95,
+    "title": "asteroids",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clasteroids.html",
+    "launchCode": "CL_ASTEROIDS"
+  },
+  {
+    "id": 96,
+    "title": "asteroidsALT",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clasteroidsALT.html",
+    "launchCode": "CL_ASTEROIDS_ALT"
+  },
+  {
+    "id": 97,
+    "title": "attackhole",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clattackhole.html",
+    "launchCode": "CL_ATTACK_HOLE"
+  },
+  {
+    "id": 98,
+    "title": "avalanche",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clavalanche.html",
+    "launchCode": "CL_AVALANCHE"
+  },
+  {
+    "id": 99,
+    "title": "aviamasters",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/claviamasters.html",
+    "launchCode": "CL_AVIA_MASTERS"
+  },
+  {
+    "id": 100,
+    "title": "aviamastersbuggy",
+    "description": "Pill game from v/admin ubg library",
+    "thumbnail": "",
+    "url": "https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/claviamastersbuggy.html",
+    "launchCode": "CL_AVIA_MASTERS_BUGGY"
+  }
+]
