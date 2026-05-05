@@ -1,1733 +1,309 @@
 [
-  {
-    "id": 1,
-    "title": "Plants Vs Zombies 2",
-    "description": "Defend your lawn with crazy plants against fun-loving zombies across time",
-    "thumbnail": "images/197.jpg",
-    "url": "games/92.html",
-    "launchCode": "PVZ_2",
-    "popular": true
-  },
-  {
-    "id": 2,
-    "title": "Hotline Miami",
-    "description": "Fast-paced top-down action combat",
-    "thumbnail": "images/22.jpg",
-    "url": "games/16.html",
-    "launchCode": "HOTLINE_MIAMI",
-    "popular": true
-  },
-  {
-    "id": 3,
-    "title": "Balatro",
-    "description": "Build insane poker hands with special Joker cards",
-    "thumbnail": "images/195.jpg",
-    "url": "https://thirstygithub.github.io/cool-math/",
-    "launchCode": "BALATRO",
-    "popular": true
-  },
-  {
-    "id": 4,
-    "title": "Undertale",
-    "description": "An RPG where you play as a human child who falls into an underground world of monsters, with the goal of getting back to the surface",
-    "thumbnail": "images/217.jpg",
-    "url": "games/91.html",
-    "launchCode": "UNDERTALE"
-  },
-  {
-    "id": 5,
-    "title": "The Legend of Zelda Majora's Mask",
-    "description": "A dark adventure through a doomed world where you have only 3 days to prevent the moon from crashing",
-    "thumbnail": "images/216.jpg",
-    "url": "games/90.html",
-    "launchCode": "TLOZMM"
-  },
-  {
-    "id": 6,
-    "title": "Cooking Mama 3",
-    "description": "Cook delicious meals with Mama's guidance in this interactive culinary adventure",
-    "thumbnail": "images/215.jpg",
-    "url": "games/89.html",
-    "launchCode": "COOKING_MAMA_3"
-  },
-  {
-    "id": 7,
-    "title": "Cooking Mama 2",
-    "description": "Continue your cooking journey with new recipes and kitchen challenges",
-    "thumbnail": "images/214.jpg",
-    "url": "games/88.html",
-    "launchCode": "COOKING_MAMA_2"
-  },
-  {
-    "id": 8,
-    "title": "Cooking Mama",
-    "description": "Learn to cook various dishes with step-by-step instructions from Mama",
-    "thumbnail": "images/213.jpg",
-    "url": "games/87.html",
-    "launchCode": "COOKING_MAMA"
-  },
-  {
-    "id": 9,
-    "title": "BloodMoney",
-    "description": "A gritty crime thriller about the consequences of choices in the criminal underworld",
-    "thumbnail": "images/212.jpg",
-    "url": "games/86.html",
-    "launchCode": "BLOODMONEY"
-  },
-  {
-    "id": 10,
-    "title": "Big Shot Boxing",
-    "description": "Rise through the ranks in this intense boxing simulation and become the champion",
-    "thumbnail": "images/211.jpg",
-    "url": "games/85.html",
-    "launchCode": "BIG_SHOT_BOXING"
-  },
-  {
-    "id": 11,
-    "title": "Assessment Examination",
-    "description": "A comprehensive test covering multiple subjects to evaluate academic progress and knowledge retention",
-    "thumbnail": "images/210.jpg",
-    "url": "games/84.html",
-    "launchCode": "AE"
-  },
-  {
-    "id": 12,
-    "title": "Schoolboy Runaway",
-    "description": "A somewhat horror game where you control a schoolboy trying to escape his troubled home life",
-    "thumbnail": "images/209.jpg",
-    "url": "games/83.html",
-    "launchCode": "SCHOOLBOY_RUNAWAY"
-  },
-  {
-    "id": 13,
-    "title": "Fears To Fathom: Home Alone",
-    "description": "A horror game where you are home alone and must survive a stalker's terrifying visits",
-    "thumbnail": "images/208.jpg",
-    "url": "games/82.html",
-    "launchCode": "FEARS_TO_FATHOM_HA"
-  },
-  {
-    "id": 14,
-    "title": "Dan The Man",
-    "description": "A side-scrolling beat 'em up where you fight through hordes of enemies to save your friends",
-    "thumbnail": "images/207.jpg",
-    "url": "games/81.html",
-    "launchCode": "DAN_THE_MAN"
-  },
-  {
-    "id": 15,
-    "title": "Resident Evil 2",
-    "description": "Survival horror game where you fight zombies in a doomed police station",
-    "thumbnail": "images/205.jpg",
-    "url": "games/80.html",
-    "launchCode": "RESIDENT_EVIL_2"
-  },
-  {
-    "id": 16,
-    "title": "Get Yoked",
-    "description": "A fitness simulator where you lift weights and manage your gym",
-    "thumbnail": "images/204.jpg",
-    "url": "games/79.html",
-    "launchCode": "GET_YOKED"
-  },
-  {
-    "id": 17,
-    "title": "INK GAME",
-    "description": "A game of strategy and survival based on squid game",
-    "thumbnail": "images/ink.jpg",
-    "url": "games/93.html",
-    "launchCode": "INK_GAME"
-  },
-  {
-    "id": 18,
-    "title": "MINE CRAFT 1.12.2",
-    "description": "Fun popular creative sandbox/survival game",
-    "thumbnail": "images/291.jpg",
-    "url": "games/164.html",
-    "launchCode": "MINE_CRAFT"
-  },
-  {
-    "id": 19,
-    "title": "People Playground",
-    "description": "Sandbox based game, play around with dummys and guns",
-    "thumbnail": "images/ppg.jpg",
-    "url": "games/ppg.html",
-    "launchCode": "PEOPLE_PLAYGROUND"
-  },
-  {
-    "id": 20,
-    "title": "Douche Bag Life",
-    "description": "A satirical life simulator where you make terrible choices to become the ultimate bro",
-    "thumbnail": "images/203.jpg",
-    "url": "games/78.html",
-    "launchCode": "DOUCHE_BAG_LIFE"
-  },
-  {
-    "id": 21,
-    "title": "Donkey Kong",
-    "description": "Classic arcade game where Jumpman must rescue his girlfriend from a giant ape",
-    "thumbnail": "images/202.jpg",
-    "url": "games/77.html",
-    "launchCode": "DONKEY_KONG"
-  },
-  {
-    "id": 22,
-    "title": "Apple Worm",
-    "description": "A retro arcade game where you guide a worm to eat apples and grow longer",
-    "thumbnail": "images/201.jpg",
-    "url": "games/75.html",
-    "launchCode": "APPLE_WORM"
-  },
-  {
-    "id": 23,
-    "title": "Chess",
-    "description": "A classic strategy game where two kings battle to the death",
-    "thumbnail": "images/200.jpg",
-    "url": "games/74.html",
-    "launchCode": "CHESS"
-  },
-  {
-    "id": 24,
-    "title": "Doki Doki Literature Club",
-    "description": "A cute dating simulator where you write poems for your crush, but something is terribly wrong",
-    "thumbnail": "images/199.jpg",
-    "url": "games/73.html",
-    "launchCode": "DDLC"
-  },
-  {
-    "id": 25,
-    "title": "Getting Over It",
-    "description": "A frustrating climbing game where you use a hammer to scale a mountain of junk",
-    "thumbnail": "images/198.jpg",
-    "url": "games/72.html",
-    "launchCode": "GETTING_OVER_IT"
-  },
-  {
-    "id": 26,
-    "title": "Toca-Boca-World",
-    "description": "A digital toy box where you create your own stories and worlds",
-    "thumbnail": "images/206.jpg",
-    "url": "https://ud-gles3games.shared-osj.k8s.n2i.io/?deeplinksURI=null%3A%2F%2F&deeplinksApp=com.tocaboca.tocalifeworld&quotaBytes=89000000&naturalOrientation=portrait&invertNaturalOrientation&forcedNaturalOrientation&jitterBufferMin=0&deeplinksService=true&backOnDisconnected=true&disconnectedMessage=null&api=%7B%22back%22%3Afalse%7D&title=Toca+Boca+World",
-    "launchCode": "TOCA_BOCA_WORLD"
-  },
-  {
-    "id": 27,
-    "title": "Tattletail",
-    "description": "Feed and care for a creepy, talking toy that wanders your house at night",
-    "thumbnail": "images/196.jpg",
-    "url": "games/71.html",
-    "launchCode": "TATTLETAIL"
-  },
-  {
-    "id": 28,
-    "title": "Sonic the Hedgehog 3",
-    "description": "Classic platformer with Sonic and Tails vs Dr. Robotnik",
-    "thumbnail": "images/189.jpg",
-    "url": "games/69.html",
-    "launchCode": "STH3"
-  },
-  {
-    "id": 29,
-    "title": "Sonic the Hedgehog 2",
-    "description": "Iconic sequel introducing Tails and spin dash move",
-    "thumbnail": "images/190.jpg",
-    "url": "games/68.html",
-    "launchCode": "STH2"
-  },
-  {
-    "id": 30,
-    "title": "Sonic Mania",
-    "description": "Modern 2D Sonic with remixed classics and new zones",
-    "thumbnail": "images/191.jpg",
-    "url": "games/67.html",
-    "launchCode": "SONIC_MANIA"
-  },
-  {
-    "id": 31,
-    "title": "Sonic CD",
-    "description": "Time-travel adventure with past and future versions",
-    "thumbnail": "images/192.jpg",
-    "url": "games/66.html",
-    "launchCode": "SONIC_CD"
-  },
-  {
-    "id": 32,
-    "title": "War The Knights",
-    "description": "Medieval knight battles and castle sieges",
-    "thumbnail": "images/193.jpg",
-    "url": "games/70.html",
-    "launchCode": "WAR_THE_KNIGHTS"
-  },
-  {
-    "id": 33,
-    "title": "Football Bros",
-    "description": "Arcade football with simple controls and power-ups",
-    "thumbnail": "images/194.jpg",
-    "url": "games/65.html",
-    "launchCode": "FOOTBALL_BROS"
-  },
-  {
-    "id": 34,
-    "title": "Buckshot Roulette",
-    "description": "Russian Roulette type game with a TWIST",
-    "thumbnail": "images/187.jpg",
-    "url": "games/63.html",
-    "launchCode": "BUCKSHOT_ROULETTE"
-  },
-  {
-    "id": 35,
-    "title": "Cup Head",
-    "description": "Fight a series of monsters to break your deal with the devil",
-    "thumbnail": "images/188.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/Algebrudda-Calculator/",
-    "launchCode": "CUP_HEAD"
-  },
-  {
-    "id": 36,
-    "title": "Slime Rancher",
-    "description": "Suck and collect slimes and raise them in a ranch",
-    "thumbnail": "images/186.jpg",
-    "url": "games/64.html",
-    "launchCode": "SLIME_RANCHER"
-  },
-  {
-    "id": 37,
-    "title": "FNAF: Pizza Sim",
-    "description": "Manage your own pizzeria while surviving animatronic horrors",
-    "thumbnail": "images/1.jpg",
-    "url": "games/1.html",
-    "launchCode": "PIZZA_SIM"
-  },
-  {
-    "id": 38,
-    "title": "Baseball Bros",
-    "description": "Engage in exciting baseball matches with strategic gameplay",
-    "thumbnail": "images/2.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/fantastic-octo-journey/",
-    "launchCode": "BASEBALL_BROS"
-  },
-  {
-    "id": 39,
-    "title": "A Dance of Fire and Ice",
-    "description": "Rhythm game requiring perfect timing between two spheres",
-    "thumbnail": "images/3.jpg",
-    "url": "games/3.html",
-    "launchCode": "ADOFAI"
-  },
-  {
-    "id": 40,
-    "title": "Smashy Kart",
-    "description": "High-speed kart racing with demolition derby elements",
-    "thumbnail": "images/4.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/upgraded-goggles/",
-    "launchCode": "SMASHY_KART"
-  },
-  {
-    "id": 41,
-    "title": "Golf Orbit",
-    "description": "Miniature golf in space with gravity mechanics",
-    "thumbnail": "images/5.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/studious-journey/",
-    "launchCode": "GOLF_ORBIT"
-  },
-  {
-    "id": 42,
-    "title": "3D Free Kick",
-    "description": "Soccer free kick simulator with realistic physics",
-    "thumbnail": "images/6.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/expert-pancake/",
-    "launchCode": "3D_FREE_KICK"
-  },
-  {
-    "id": 43,
-    "title": "Retro Bowl College",
-    "description": "College football management simulation",
-    "thumbnail": "images/7.jpg",
-    "url": "games/4.html",
-    "launchCode": "RB_COLLEGE"
-  },
-  {
-    "id": 44,
-    "title": "Deepest Sword",
-    "description": "Adventure game about retrieving the deepest sword",
-    "thumbnail": "images/8.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/legendary-octo-train/",
-    "launchCode": "DEEPEST_SWORD"
-  },
-  {
-    "id": 45,
-    "title": "Tomodachi Life",
-    "description": "Life simulation with quirky island characters",
-    "thumbnail": "images/9.jpg",
-    "url": "games/5.html",
-    "launchCode": "TOMODACHI_LIFE"
-  },
-  {
-    "id": 46,
-    "title": "FNAF: Sister Location",
-    "description": "Survival horror in a high-tech facility",
-    "thumbnail": "images/10.jpg",
-    "url": "games/6.html",
-    "launchCode": "FNAF_SISTER_LOCATION"
-  },
-  {
-    "id": 47,
-    "title": "Fallout",
-    "description": "Post-apocalyptic RPG exploring wastelands",
-    "thumbnail": "images/11.jpg",
-    "url": "games/7.html",
-    "launchCode": "FALLOUT"
-  },
-  {
-    "id": 48,
-    "title": "Rocket League",
-    "description": "Soccer with rocket-powered cars",
-    "thumbnail": "images/12.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/potential-meme/",
-    "launchCode": "ROCKET_LEAGUE"
-  },
-  {
-    "id": 49,
-    "title": "Street Fighter II",
-    "description": "Classic fighting game with special moves",
-    "thumbnail": "images/13.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/scaling-goggles/",
-    "launchCode": "STREET_FIGHTER_II"
-  },
-  {
-    "id": 50,
-    "title": "Super Star Car",
-    "description": "Racing with customizable super cars",
-    "thumbnail": "images/14.jpg",
-    "url": "games/8.html",
-    "launchCode": "SUPER_STAR_CAR"
-  },
-  {
-    "id": 51,
-    "title": "Steal a Brainrot Online",
-    "description": "Multiplayer game about strategic theft",
-    "thumbnail": "images/15.jpg",
-    "url": "games/9.html",
-    "launchCode": "STEAL_A_BRAINROT"
-  },
-  {
-    "id": 52,
-    "title": "Bad Piggies",
-    "description": "Physics puzzles building pig contraptions",
-    "thumbnail": "images/16.jpg",
-    "url": "games/10.html",
-    "launchCode": "BAD_PIGGIES"
-  },
-  {
-    "id": 53,
-    "title": "Among Us (real)",
-    "description": "Social deduction identifying impostors",
-    "thumbnail": "images/17.jpg",
-    "url": "https://ud-gles3games.shared-osj.k8s.n2i.io/?deeplinksURI=null%3A%2F%2F&deeplinksApp=com.innersloth.spacemafia&naturalOrientation=landscape&forcedNaturalOrientation&autofitOnConnect&jitterBufferMin=0&deeplinksService=true&backOnDisconnected=true&disconnectedMessage=null&api=%7B%22back%22%3Afalse%7D&title=Among+Us",
-    "launchCode": "AMONG_US"
-  },
-  {
-    "id": 54,
-    "title": "Yandere Simulator",
-    "description": "Stealth game eliminating rivals",
-    "thumbnail": "images/18.jpg",
-    "url": "games/12.html",
-    "launchCode": "YANDERE_SIM"
-  },
-  {
-    "id": 55,
-    "title": "Twerk Race 3D",
-    "description": "I dont even want to describe this game...",
-    "thumbnail": "images/19.jpg",
-    "url": "games/13.html",
-    "launchCode": "TWERK_RACE_3D"
-  },
-  {
-    "id": 56,
-    "title": "Quake III",
-    "description": "Classic arena shooter with fast combat",
-    "thumbnail": "images/20.jpg",
-    "url": "games/14.html",
-    "launchCode": "QUAKE_III"
-  },
-  {
-    "id": 57,
-    "title": "10 Minutes Till Dawn",
-    "description": "Intense bullet hell survival game",
-    "thumbnail": "images/21.jpg",
-    "url": "games/15.html",
-    "launchCode": "10_MIN_TILL_DAWN"
-  },
-  {
-    "id": 58,
-    "title": "Nubby's Number Factory",
-    "description": "Mathematical puzzle challenges",
-    "thumbnail": "images/23.jpg",
-    "url": "games/17.html",
-    "launchCode": "NUBBYS_NUMBER_FACTORY"
-  },
-  {
-    "id": 59,
-    "title": "Generic Fighter Maybe",
-    "description": "Combat with fighting styles",
-    "thumbnail": "images/24.jpg",
-    "url": "games/18.html",
-    "launchCode": "GENERIC_FIGHTER_MAYBE"
-  },
-  {
-    "id": 60,
-    "title": "Death Run 3D",
-    "description": "Treacherous obstacle course navigation",
-    "thumbnail": "images/25.jpg",
-    "url": "games/19.html",
-    "launchCode": "DEATH_RUN_3D"
-  },
-  {
-    "id": 61,
-    "title": "Clash Royale",
-    "description": "Strategic card-based battles",
-    "thumbnail": "images/26.jpg",
-    "url": "games/21.html",
-    "launchCode": "CLASH_ROYALE"
-  },
-  {
-    "id": 62,
-    "title": "PaRappa The Rapper",
-    "description": "Rhythm-based music game",
-    "thumbnail": "images/27.jpg",
-    "url": "games/22.html",
-    "launchCode": "PARAPPA_RAPPER"
-  },
-  {
-    "id": 63,
-    "title": "Hollow Knight",
-    "description": "Metroidvania in underground kingdom",
-    "thumbnail": "images/28.jpg",
-    "url": "games/23.html",
-    "launchCode": "HOLLOW_KNIGHT"
-  },
-  {
-    "id": 64,
-    "title": "Binding of Issac WOTL",
-    "description": "Rogue-like dungeon crawler",
-    "thumbnail": "images/29.jpg",
-    "url": "games/24.html",
-    "launchCode": "BOI_WOTL"
-  },
-  {
-    "id": 65,
-    "title": "Blade Ball",
-    "description": "Fast-paced ball throwing game",
-    "thumbnail": "images/30.jpg",
-    "url": "games/25.html",
-    "launchCode": "BLADE_BALL"
-  },
-  {
-    "id": 66,
-    "title": "Ages of Conflict",
-    "description": "Historical strategy warfare game",
-    "thumbnail": "images/31.jpg",
-    "url": "games/26.html",
-    "launchCode": "AGES_OF_CONFLICT"
-  },
-  {
-    "id": 67,
-    "title": "Triva Crack",
-    "description": "Addictive trivia knowledge challenge",
-    "thumbnail": "images/32.jpg",
-    "url": "games/27.html",
-    "launchCode": "TRIVA_CRACK"
-  },
-  {
-    "id": 68,
-    "title": "Bow Masters",
-    "description": "Precision archery physics game",
-    "thumbnail": "images/33.jpg",
-    "url": "games/28.html",
-    "launchCode": "BOW_MASTERS"
-  },
-  {
-    "id": 69,
-    "title": "Angry Birds",
-    "description": "Classic physics puzzle destruction",
-    "thumbnail": "images/34.jpg",
-    "url": "games/29.html",
-    "launchCode": "ANGRY_BIRDS"
-  },
-  {
-    "id": 70,
-    "title": "FNAF: World",
-    "description": "RPG with FNAF characters",
-    "thumbnail": "images/35.jpg",
-    "url": "games/30.html",
-    "launchCode": "FNAF_WORLD"
-  },
-  {
-    "id": 71,
-    "title": "Solar Smash",
-    "description": "Planet destruction simulator",
-    "thumbnail": "images/36.jpg",
-    "url": "games/31.html",
-    "launchCode": "SOLAR_SMASH"
-  },
-  {
-    "id": 72,
-    "title": "Idle Mining Empire",
-    "description": "Addictive mining clicker game",
-    "thumbnail": "images/37.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/sjsDjsaokdjsa/",
-    "launchCode": "IDLE_MINING_EMPIRE"
-  },
-  {
-    "id": 73,
-    "title": "Highway Racers 2",
-    "description": "High-speed racing action",
-    "thumbnail": "images/38.jpg",
-    "url": "games/32.html",
-    "launchCode": "HIGHWAY_RACERS_2"
-  },
-  {
-    "id": 74,
-    "title": "Bounce Masters",
-    "description": "Physics bouncing challenges",
-    "thumbnail": "images/39.jpg",
-    "url": "games/33.html",
-    "launchCode": "BOUNCE_MASTERS"
-  },
-  {
-    "id": 75,
-    "title": "R.E.P.O",
-    "description": "Stealth vehicle repossession",
-    "thumbnail": "images/40.jpg",
-    "url": "games/34.html",
-    "launchCode": "REPO"
-  },
-  {
-    "id": 76,
-    "title": "Raft",
-    "description": "Ocean survival building floating home",
-    "thumbnail": "images/41.jpg",
-    "url": "games/35.html",
-    "launchCode": "RAFT"
-  },
-  {
-    "id": 77,
-    "title": "Side Effects",
-    "description": "Puzzle cause and effect relationships",
-    "thumbnail": "images/42.jpg",
-    "url": "games/36.html",
-    "launchCode": "SIDE_EFFECTS"
-  },
-  {
-    "id": 78,
-    "title": "Slender",
-    "description": "Horror survival exploration game",
-    "thumbnail": "images/43.jpg",
-    "url": "games/37.html",
-    "launchCode": "SLENDER"
-  },
-  {
-    "id": 79,
-    "title": "Line Rider",
-    "description": "Creative physics track drawing",
-    "thumbnail": "images/44.jpg",
-    "url": "games/38.html",
-    "launchCode": "LINE_RIDER"
-  },
-  {
-    "id": 80,
-    "title": "Kindergarten 3",
-    "description": "Dark humor school adventure",
-    "thumbnail": "images/45.jpg",
-    "url": "games/39.html",
-    "launchCode": "KINDERGARTEN_3"
-  },
-  {
-    "id": 81,
-    "title": "Kindergarten 2",
-    "description": "Strange school comedy sequel",
-    "thumbnail": "images/46.jpg",
-    "url": "games/40.html",
-    "launchCode": "KINDERGARTEN_2"
-  },
-  {
-    "id": 82,
-    "title": "Kindergarten",
-    "description": "Strange school comedy game",
-    "thumbnail": "images/47.jpg",
-    "url": "games/41.html",
-    "launchCode": "KINDERGARTEN"
-  },
-  {
-    "id": 83,
-    "title": "Granny 3",
-    "description": "Horror escape with new challenges",
-    "thumbnail": "images/48.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/ideal-parakeet/",
-    "launchCode": "GRANNY_3"
-  },
-  {
-    "id": 84,
-    "title": "Granny 2",
-    "description": "Sequel horror escape game",
-    "thumbnail": "images/49.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/Granny1/",
-    "launchCode": "GRANNY_2"
-  },
-  {
-    "id": 85,
-    "title": "Granny",
-    "description": "Classic horror escape game",
-    "thumbnail": "images/50.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/symmetrical-meme/",
-    "launchCode": "GRANNY"
-  },
-  {
-    "id": 86,
-    "title": "Bad Parenting",
-    "description": "Dark comedy parenting simulation",
-    "thumbnail": "images/51.jpg",
-    "url": "games/42.html",
-    "launchCode": "BAD_PARENTING"
-  },
-  {
-    "id": 87,
-    "title": "Baldis Basics",
-    "description": "Survival horror educational parody",
-    "thumbnail": "images/52.jpg",
-    "url": "games/43.html",
-    "launchCode": "BALDIS_BASICS"
-  },
-  {
-    "id": 88,
-    "title": "Bendy and the Ink Machine",
-    "description": "Horror adventure in animation studio",
-    "thumbnail": "images/53.jpg",
-    "url": "games/44.html",
-    "launchCode": "BATIM"
-  },
-  {
-    "id": 89,
-    "title": "Candy Crush",
-    "description": "Addictive match-3 puzzle game",
-    "thumbnail": "images/54.jpg",
-    "url": "games/45.html",
-    "launchCode": "CANDY_CRUSH"
-  },
-  {
-    "id": 90,
-    "title": "Geometry Dash",
-    "description": "Rhythm-based platformer challenges",
-    "thumbnail": "images/55.jpg",
-    "url": "games/46.html",
-    "launchCode": "GEOMETRY_DASH"
-  },
-  {
-    "id": 91,
-    "title": "That's Not My Neighbor",
-    "description": "Doorman identity verification game",
-    "thumbnail": "images/56.jpg",
-    "url": "games/47.html",
-    "launchCode": "TNMN"
-  },
-  {
-    "id": 92,
-    "title": "ULTRAKILL",
-    "description": "Fast-paced retro-style shooter",
-    "thumbnail": "images/57.jpg",
-    "url": "games/48.html",
-    "launchCode": "ULTRAKILL"
-  },
-  {
-    "id": 93,
-    "title": "WebFishing",
-    "description": "Relaxing fishing simulation game",
-    "thumbnail": "images/58.jpg",
-    "url": "games/49.html",
-    "launchCode": "WEBFISHING"
-  },
-  {
-    "id": 94,
-    "title": "Super Falling Fred",
-    "description": "Endless falling obstacle avoidance",
-    "thumbnail": "images/59.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/ASDOKAS/",
-    "launchCode": "SUPER_FALLING_FRED"
-  },
-  {
-    "id": 95,
-    "title": "Timberman",
-    "description": "Fast-paced tree chopping game",
-    "thumbnail": "images/60.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/saJKLDPAW/",
-    "launchCode": "TIMBERMAN"
-  },
-  {
-    "id": 96,
-    "title": "Stupid Zombies 2",
-    "description": "Physics zombie shooting puzzles",
-    "thumbnail": "images/61.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/ASJDIPAJ/",
-    "launchCode": "STUPID_ZOMBIES_2"
-  },
-  {
-    "id": 97,
-    "title": "Pokemon Emerald",
-    "description": "Classic Pokemon RPG adventure",
-    "thumbnail": "images/62.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/ASLDO-PWA-/",
-    "launchCode": "POKEMON_EMERALD"
-  },
-  {
-    "id": 98,
-    "title": "Impossible Quiz 2",
-    "description": "Tricky brain-teasing questions",
-    "thumbnail": "images/63.jpg",
-    "url": "https://xoriushourz.github.io/ImpossibleQuiz2/",
-    "launchCode": "IMPOSSIBLE_QUIZ_2"
-  },
-  {
-    "id": 99,
-    "title": "Super Smash Flash 2",
-    "description": "Platform fighting game",
-    "thumbnail": "images/64.jpg",
-    "url": "https://script.google.com/macros/s/AKfycbwSChHrprN7EV_1tBZU8Mi2KGB4uJX4PQOEf7xpPfo_iCvuojtCu7s0Mp8oRZJRPzZ7Og/exec",
-    "launchCode": "SMF2"
-  },
-  {
-    "id": 100,
-    "title": "Idle Breakout",
-    "description": "Addictive brick breaking idle game",
-    "thumbnail": "images/65.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/SKAODLMWASD/",
-    "launchCode": "IDLE_BREAKOUT"
-  },
-  {
-    "id": 101,
-    "title": "Gun Mayhem 2",
-    "description": "Chaotic platform shooter battles",
-    "thumbnail": "images/66.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/AKSPDL-MA-/",
-    "launchCode": "GUN_MAYHEM_2"
-  },
-  {
-    "id": 102,
-    "title": "Gun Mayhem",
-    "description": "Original chaotic platform shooter",
-    "thumbnail": "images/67.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/SAKDOWPA/",
-    "launchCode": "GUN_MAYHEM"
-  },
-  {
-    "id": 103,
-    "title": "Big Tower Tiny Square",
-    "description": "Precision platforming challenges",
-    "thumbnail": "images/68.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/odkoasdmlwa/",
-    "launchCode": "BIG_TOWER_TINY_SQUARE"
-  },
-  {
-    "id": 104,
-    "title": "Big Tower Tiny Square 2",
-    "description": "Sequel precision platformer",
-    "thumbnail": "images/69.jpg",
-    "url": "games/50.html",
-    "launchCode": "BIG_TOWER_TINY_SQUARE_2"
-  },
-  {
-    "id": 105,
-    "title": "Unicycle Hero",
-    "description": "Balancing unicycle stunt game",
-    "thumbnail": "images/70.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/sdajoiASODhsa/",
-    "launchCode": "UNICYCLE_HERO"
-  },
-  {
-    "id": 106,
-    "title": "Murder",
-    "description": "Mystery deduction social game",
-    "thumbnail": "images/71.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/hjhjbjbjkbnlkhb/",
-    "launchCode": "MURDER"
-  },
-  {
-    "id": 107,
-    "title": "Pokemon Firered",
-    "description": "Classic Pokemon adventure remake",
-    "thumbnail": "images/72.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/BIGBLACKNEGABALLS/",
-    "launchCode": "POKEMON_FIRERED"
-  },
-  {
-    "id": 108,
-    "title": "Stake Mines",
-    "description": "Cryptocurrency mining strategy",
-    "thumbnail": "images/73.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/ILOVEGAMBLING/",
-    "launchCode": "STAKE_MINES"
-  },
-  {
-    "id": 109,
-    "title": "Blumgi Slime",
-    "description": "Physics-based slime platformer",
-    "thumbnail": "images/74.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/BlumgiSlime/",
-    "launchCode": "BLUMGI_SLIME"
-  },
-  {
-    "id": 110,
-    "title": "Raft Wars 2",
-    "description": "Strategic water balloon battles",
-    "thumbnail": "images/75.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/raft-wars-2/",
-    "launchCode": "RAFT_WARS_2"
-  },
-  {
-    "id": 111,
-    "title": "Earn to Die",
-    "description": "Zombie apocalypse vehicle escape",
-    "thumbnail": "images/76.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/EarnToDie/",
-    "launchCode": "EARN_TO_DIE"
-  },
-  {
-    "id": 112,
-    "title": "8Ball Pool",
-    "description": "Realistic pool physics game",
-    "thumbnail": "images/79.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/Lindy-Leighton-Reis/",
-    "launchCode": "8BALL_POOL"
-  },
-  {
-    "id": 113,
-    "title": "President Simulator",
-    "description": "Political decision-making game",
-    "thumbnail": "images/80.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/PresidentSimulator/",
-    "launchCode": "PRESIDENT_SIMULATOR"
-  },
-  {
-    "id": 114,
-    "title": "Escape Road",
-    "description": "Puzzle road navigation game",
-    "thumbnail": "images/81.jpg",
-    "url": "games/51.html",
-    "launchCode": "ESCAPE_ROAD"
-  },
-  {
-    "id": 115,
-    "title": "OvO",
-    "description": "Minimalist platformer challenges",
-    "thumbnail": "images/82.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/Uduak-Pitsiulaaq-Pusk-s/",
-    "launchCode": "OVO"
-  },
-  {
-    "id": 116,
-    "title": "Moving Truck",
-    "description": "Physics-based truck loading",
-    "thumbnail": "images/83.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/Sophea-Vanja-Andrei/",
-    "launchCode": "MOVING_TRUCK"
-  },
-  {
-    "id": 117,
-    "title": "Fruit Ninja",
-    "description": "Slice flying fruit with precision",
-    "thumbnail": "images/84.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/Wanangwa-Shaked-Aikawa/",
-    "launchCode": "FRUIT_NINJA"
-  },
-  {
-    "id": 118,
-    "title": "Ball Sort Puzzle",
-    "description": "Color sorting puzzle challenge",
-    "thumbnail": "images/85.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/Dada-Ahmose-Acardi/",
-    "launchCode": "BALL_SORT_PUZZLE"
-  },
-  {
-    "id": 119,
-    "title": "They're Coming",
-    "description": "Horror survival defense game",
-    "thumbnail": "images/86.jpg",
-    "url": "games/52.html",
-    "launchCode": "THEYRE_COMING"
-  },
-  {
-    "id": 120,
-    "title": "Flappy Bird",
-    "description": "Addictive timing-based flying",
-    "thumbnail": "images/87.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/Qinnuajuaq-Jindra-Rosenfeld/",
-    "launchCode": "FLAPPY_BIRD"
-  },
-  {
-    "id": 121,
-    "title": "Recoil",
-    "description": "Physics-based shooting game",
-    "thumbnail": "images/88.jpg",
-    "url": "https://godlover89.github.io/Santana-Yannick-Pinto/",
-    "launchCode": "RECOIL"
-  },
-  {
-    "id": 122,
-    "title": "Twitch Tetris",
-    "description": "Classic block stacking puzzle",
-    "thumbnail": "images/89.jpg",
-    "url": "https://godlover89.github.io/Twitch-Tetris/",
-    "launchCode": "TWITCH_TETRIS"
-  },
-  {
-    "id": 123,
-    "title": "Ultimate Car Driving Game",
-    "description": "Realistic driving simulation",
-    "thumbnail": "images/90.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/Jimmie-Phuntso-Cuoco/",
-    "launchCode": "ULTIMATE_DRIVING_GAME"
-  },
-  {
-    "id": 124,
-    "title": "Crazy Cattle 3D",
-    "description": "Funny cattle herding game",
-    "thumbnail": "images/91.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/Ashton-Aston-Rowe/",
-    "launchCode": "CRAZY_CATTLE_3D"
-  },
-  {
-    "id": 125,
-    "title": "Run 3",
-    "description": "Space tunnel running game",
-    "thumbnail": "images/92.jpg",
-    "url": "https://lekug.github.io/tn6pS9dCf37xAhkJv/",
-    "launchCode": "RUN_3"
-  },
-  {
-    "id": 126,
-    "title": "Vex 8",
-    "description": "Challenging obstacle course platformer",
-    "thumbnail": "images/93.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/Abioye-Temitope-Quaranta/",
-    "launchCode": "VEX_8"
-  },
-  {
-    "id": 127,
-    "title": "Apple Shooter",
-    "description": "Precision apple shooting game",
-    "thumbnail": "images/94.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/imbouttokum/",
-    "launchCode": "APPLE_SHOOTER"
-  },
-  {
-    "id": 128,
-    "title": "Running Fred",
-    "description": "Endless running obstacle course",
-    "thumbnail": "images/95.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/Akpofure-Thato-Dickens/",
-    "launchCode": "RUNNING_FRED"
-  },
-  {
-    "id": 129,
-    "title": "Hextrix",
-    "description": "Hexagon-based puzzle game",
-    "thumbnail": "images/96.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/Li-Min-Kron/",
-    "launchCode": "HEXTRIX"
-  },
-  {
-    "id": 130,
-    "title": "Jelly Truck",
-    "description": "Physics-based truck driving",
-    "thumbnail": "images/97.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/Vanna-Adisa-Allison/",
-    "launchCode": "JELLY_TRUCK"
-  },
-  {
-    "id": 131,
-    "title": "Rooftop Snipers 2",
-    "description": "2D shooter duel game",
-    "thumbnail": "images/98.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/Leofd-g-Lior-Maekawa/",
-    "launchCode": "ROOFTOP_SNIPERS_2"
-  },
-  {
-    "id": 132,
-    "title": "Color Switch",
-    "description": "Color-matching obstacle game",
-    "thumbnail": "images/99.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/Lee-Kam-Lane/",
-    "launchCode": "COLOR_SWITCH"
-  },
-  {
-    "id": 133,
-    "title": "Hole.io",
-    "description": "Black hole consuming game",
-    "thumbnail": "images/100.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/Mahpiya-D-lg-n-Coiro/",
-    "launchCode": "HOLE_IO"
-  },
-  {
-    "id": 134,
-    "title": "Color Tunnel 2",
-    "description": "3D color tunnel runner",
-    "thumbnail": "images/101.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/Avital-Passang-Hubert/",
-    "launchCode": "COLOR_TUNNEL_2"
-  },
-  {
-    "id": 135,
-    "title": "Wrassling",
-    "description": "Comical wrestling game",
-    "thumbnail": "images/102.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/Micajah-Sky-Pell-/",
-    "launchCode": "WRASSLING"
-  },
-  {
-    "id": 136,
-    "title": "Brain Test",
-    "description": "Tricky puzzle brain teasers",
-    "thumbnail": "images/103.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/EASMEL/",
-    "launchCode": "BRAIN_TEST"
-  },
-  {
-    "id": 137,
-    "title": "Hillclimb Racing",
-    "description": "Physics-based hill climbing",
-    "thumbnail": "images/104.jpg",
-    "url": "games/53.html",
-    "launchCode": "HILLCLIMB_RACING"
-  },
-  {
-    "id": 138,
-    "title": "Level Devil",
-    "description": "Challenging platformer levels",
-    "thumbnail": "images/105.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/ChemistryHomeworkHero/",
-    "launchCode": "LEVEL_DEVIL"
-  },
-  {
-    "id": 139,
-    "title": "Temple Run 2",
-    "description": "Endless running adventure",
-    "thumbnail": "images/106.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/MarketingStudyMate/",
-    "launchCode": "TEMPLE_RUN_2"
-  },
-  {
-    "id": 140,
-    "title": "Boxing Physics 2",
-    "description": "Physics-based boxing game",
-    "thumbnail": "images/107.jpg",
-    "url": "https://dddavit.github.io/igra-fizika-boxa-2/",
-    "launchCode": "BOXING_PHYSICS_2"
-  },
-  {
-    "id": 141,
-    "title": "Street Ball Jam",
-    "description": "Urban basketball game",
-    "thumbnail": "images/108.jpg",
-    "url": "",
-    "launchCode": "STREET_BALL_JAM"
-  },
-  {
-    "id": 142,
-    "title": "Super Mario 64",
-    "description": "Classic 3D platformer adventure",
-    "thumbnail": "images/109.jpg",
-    "url": "games/54.html",
-    "launchCode": "SM64"
-  },
-  {
-    "id": 143,
-    "title": "Fruit Merge",
-    "description": "Merge fruit puzzle game",
-    "thumbnail": "images/110.jpg",
-    "url": "https://llerrah.com/games/fruitmerge/index.html",
-    "launchCode": "FRUIT_MERGE"
-  },
-  {
-    "id": 144,
-    "title": "Wheelie Bike 2",
-    "description": "Motorcycle stunt game",
-    "thumbnail": "images/111.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/AccountingTutorPro/",
-    "launchCode": "WHEELIE_BIKE_2"
-  },
-  {
-    "id": 145,
-    "title": "Park Out",
-    "description": "Challenging parking puzzle",
-    "thumbnail": "images/112.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/ArchitectureTutoringPro/",
-    "launchCode": "PARK_OUT"
-  },
-  {
-    "id": 146,
-    "title": "Bloxorz",
-    "description": "Block rolling puzzle game",
-    "thumbnail": "images/113.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/LawHomeworkHub/",
-    "launchCode": "BLOXORZ"
-  },
-  {
-    "id": 147,
-    "title": "Save The Doge",
-    "description": "Rescue puzzle challenges",
-    "thumbnail": "images/114.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/MedicalSchoolHelper/",
-    "launchCode": "SAVE_THE_DOGE"
-  },
-  {
-    "id": 148,
-    "title": "Worlds Hardest Game",
-    "description": "Extremely challenging puzzles",
-    "thumbnail": "images/115.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/FinanceHomeworkHelp/",
-    "launchCode": "WORLDS_HARDEST_GAME"
-  },
-  {
-    "id": 149,
-    "title": "Idle Digging Tycoon",
-    "description": "Mining empire building",
-    "thumbnail": "images/116.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/wonderoveryonder/",
-    "launchCode": "IDLE_DIGGING_TYCOON"
-  },
-  {
-    "id": 150,
-    "title": "Impossible Quiz",
-    "description": "Tricky question challenges",
-    "thumbnail": "images/117.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/lemmegetuhhhh/",
-    "launchCode": "IMPOSSIBLE_QUIZ"
-  },
-  {
-    "id": 151,
-    "title": "Stickman Hook",
-    "description": "Swinging physics game",
-    "thumbnail": "images/118.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/smallasianman/",
-    "launchCode": "STICKMAN_HOOK"
-  },
-  {
-    "id": 152,
-    "title": "Rio Rex",
-    "description": "Dinosaur platformer adventure",
-    "thumbnail": "images/119.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/bustherdooniesdown/",
-    "launchCode": "RIO_REX"
-  },
-  {
-    "id": 153,
-    "title": "Idle Tree City",
-    "description": "Tree-growing idle game",
-    "thumbnail": "images/120.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/idle-tree-city/",
-    "launchCode": "IDLE_TREE_CITY"
-  },
-  {
-    "id": 154,
-    "title": "Snake MLG",
-    "description": "Classic snake with memes",
-    "thumbnail": "images/121.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/cansomeonegrabbomb/",
-    "launchCode": "SNAKE_MLG"
-  },
-  {
-    "id": 155,
-    "title": "Stacktris",
-    "description": "Tetris-inspired stacking game",
-    "thumbnail": "images/123.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/mommahuevo/",
-    "launchCode": "STACKTRIS"
-  },
-  {
-    "id": 156,
-    "title": "Stickman Ragdoll Crash",
-    "description": "Physics ragdoll crashes",
-    "thumbnail": "images/124.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/whatsafather/",
-    "launchCode": "STICKMAN_RAGDOLL_CRASH"
-  },
-  {
-    "id": 157,
-    "title": "Plinko",
-    "description": "Classic probability ball drop",
-    "thumbnail": "images/125.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/bug-free-pancake/",
-    "launchCode": "PLINKO"
-  },
-  {
-    "id": 158,
-    "title": "Gambling Table Games",
-    "description": "Various casino games",
-    "thumbnail": "images/126.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/poker/?&balance=null&theme=slate",
-    "launchCode": "GAMBLING_GAMES"
-  },
-  {
-    "id": 159,
-    "title": "Blocky Snakes",
-    "description": "Block-based snake game",
-    "thumbnail": "images/127.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/AnatomyStudyAid/",
-    "launchCode": "BLOCKY_SNAKES"
-  },
-  {
-    "id": 160,
-    "title": "Crossy Road",
-    "description": "Endless road crossing",
-    "thumbnail": "images/128.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/EconomicsExamExpert/",
-    "launchCode": "CROSSY_ROAD"
-  },
-  {
-    "id": 161,
-    "title": "Happy Room",
-    "description": "Weapons testing sandbox",
-    "thumbnail": "images/129.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/OrganicChemHelper/",
-    "launchCode": "HAPPY_ROOM"
-  },
-  {
-    "id": 162,
-    "title": "Burrito Bison",
-    "description": "Launching wrestling game",
-    "thumbnail": "images/130.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/verbose-doodle/",
-    "launchCode": "BURRITO_BISON"
-  },
-  {
-    "id": 163,
-    "title": "Zombocalypse",
-    "description": "Zombie survival shooter",
-    "thumbnail": "images/131.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/GermanGrammarGuide/",
-    "launchCode": "ZOMBOCALYPSE"
-  },
-  {
-    "id": 164,
-    "title": "Pou",
-    "description": "Virtual pet care game",
-    "thumbnail": "images/133.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/FrenchTutoringPro/",
-    "launchCode": "POU"
-  },
-  {
-    "id": 165,
-    "title": "Backrooms",
-    "description": "Liminal space exploration",
-    "thumbnail": "images/134.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/SpanishStudySupport/",
-    "launchCode": "BACKROOMS"
-  },
-  {
-    "id": 166,
-    "title": "Getaway Shootout",
-    "description": "Chaotic platform shooter",
-    "thumbnail": "images/135.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/GeographyGuruOnline/",
-    "launchCode": "GETAWAY_SHOOTOUT"
-  },
-  {
-    "id": 167,
-    "title": "Snow Rider 3D",
-    "description": "Snowboarding trick game",
-    "thumbnail": "images/136.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/GeometryGeniusHelp/",
-    "launchCode": "SNOW_RIDER_3D"
-  },
-  {
-    "id": 168,
-    "title": "Gladihoppers",
-    "description": "Physics gladiator battles",
-    "thumbnail": "images/137.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/BiologyHomeworkHero/",
-    "launchCode": "GLADIHOPPERS"
-  },
-  {
-    "id": 169,
-    "title": "Paper.io 2",
-    "description": "Territory conquest game",
-    "thumbnail": "images/138.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/CodingHomeworkHelp/",
-    "launchCode": "PAPER_IO_2"
-  },
-  {
-    "id": 170,
-    "title": "Poly Track",
-    "description": "Geometric racing game",
-    "thumbnail": "images/139.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/LiteratureLearningLab/",
-    "launchCode": "POLY_TRACK"
-  },
-  {
-    "id": 171,
-    "title": "Club Penguin",
-    "description": "Virtual world social game",
-    "thumbnail": "images/140.jpg",
-    "url": "https://play.cplegacy.com/",
-    "launchCode": "CLUB_PENGUIN"
-  },
-  {
-    "id": 172,
-    "title": "Sausage Flip",
-    "description": "Physics sausage flipping",
-    "thumbnail": "images/141.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/GeekSquad/",
-    "launchCode": "SAUSAGE_FLIP"
-  },
-  {
-    "id": 173,
-    "title": "Ragdoll Hit",
-    "description": "Ragdoll physics combat",
-    "thumbnail": "images/142.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/PhysicsProblemPro/",
-    "launchCode": "RAGDOLL_HIT"
-  },
-  {
-    "id": 174,
-    "title": "Gun Spin",
-    "description": "Weapon spinning challenge",
-    "thumbnail": "images/143.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/CalculusCoachHub/",
-    "launchCode": "GUN_SPIN"
-  },
-  {
-    "id": 175,
-    "title": "Thorns and Balloons",
-    "description": "Balloon popping game",
-    "thumbnail": "images/144.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/ScienceStudyBuddy/",
-    "launchCode": "THORNS_AND_BALLOONS"
-  },
-  {
-    "id": 176,
-    "title": "Subway Surfers",
-    "description": "Endless running adventure",
-    "thumbnail": "images/145.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/GeologyAssignments/",
-    "launchCode": "SUBWAY_SURFERS"
-  },
-  {
-    "id": 177,
-    "title": "Block Blast",
-    "description": "Block matching puzzle",
-    "thumbnail": "images/146.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/MathMasteryOnline/",
-    "launchCode": "BLOCK_BLAST"
-  },
-  {
-    "id": 178,
-    "title": "Stack Bounce",
-    "description": "Ball bouncing challenge",
-    "thumbnail": "images/147.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/ScienceHelping/",
-    "launchCode": "STACK_BOUNCE"
-  },
-  {
-    "id": 179,
-    "title": "Plants Vs Zombies",
-    "description": "Tower defense strategy",
-    "thumbnail": "images/148.jpg",
-    "url": "games/56.html",
-    "launchCode": "PLANTS_VS_ZOMBIES"
-  },
-  {
-    "id": 180,
-    "title": "Drive Mad",
-    "description": "Crazy driving challenges",
-    "thumbnail": "images/149.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/EnglishHomeworkHelper/",
-    "launchCode": "DRIVE_MAD"
-  },
-  {
-    "id": 181,
-    "title": "Drift Boss",
-    "description": "Precision drifting game",
-    "thumbnail": "images/150.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/CellTheory/",
-    "launchCode": "DRIFT_BOSS"
-  },
-  {
-    "id": 182,
-    "title": "Friday Night Funkin",
-    "description": "Rhythm music battles",
-    "thumbnail": "images/151.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/2/",
-    "launchCode": "FRIDAY_NIGHT_FUNKIN"
-  },
-  {
-    "id": 183,
-    "title": "COD Nazi Zombies Portable",
-    "description": "Zombie survival shooter",
-    "thumbnail": "images/152.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/HistoryNatureVideos/",
-    "launchCode": "COD_NAZI_ZOMBIES"
-  },
-  {
-    "id": 184,
-    "title": "Adventure Capitalist",
-    "description": "Business idle clicker",
-    "thumbnail": "images/153.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/SmartMoneyStudying/",
-    "launchCode": "ADVENTURE_CAPITALIST"
-  },
-  {
-    "id": 185,
-    "title": "1v1.lol",
-    "description": "Building and shooting battles",
-    "thumbnail": "images/154.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/VegetableVerbs/",
-    "launchCode": "1V1_LOL"
-  },
-  {
-    "id": 186,
-    "title": "Ragdoll Archers",
-    "description": "Physics archery combat",
-    "thumbnail": "images/155.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/FilmCameraSale/",
-    "launchCode": "RAGDOLL_ARCHERS"
-  },
-  {
-    "id": 187,
-    "title": "Dante",
-    "description": "Action platformer adventure",
-    "thumbnail": "images/156.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/VegetarianBurger/",
-    "launchCode": "DANTE"
-  },
-  {
-    "id": 188,
-    "title": "Minecraft",
-    "description": "Block building survival",
-    "thumbnail": "images/157.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/ChemistyStudies/",
-    "launchCode": "MINECRAFT"
-  },
-  {
-    "id": 189,
-    "title": "Retro Bowl",
-    "description": "Football management game",
-    "thumbnail": "images/158.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/MathLover/",
-    "launchCode": "RETRO_BOWL"
-  },
-  {
-    "id": 190,
-    "title": "Half Life",
-    "description": "Sci-fi FPS adventure",
-    "thumbnail": "images/159.jpg",
-    "url": "games/57.html",
-    "launchCode": "HALF_LIFE"
-  },
-  {
-    "id": 191,
-    "title": "Jetpack Joyride",
-    "description": "Endless flying adventure",
-    "thumbnail": "images/160.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/saldw/",
-    "launchCode": "JETPACK_JOYRIDE"
-  },
-  {
-    "id": 192,
-    "title": "Bloons TD 4",
-    "description": "Tower defense strategy",
-    "thumbnail": "images/161.jpg",
-    "url": "https://spew45.github.io/game-assets/btd4/",
-    "launchCode": "BLOONS_TD_4"
-  },
-  {
-    "id": 193,
-    "title": "Sand Game",
-    "description": "Physics sand simulation",
-    "thumbnail": "images/162.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/AlgebraTutoring/",
-    "launchCode": "SAND_GAME"
-  },
-  {
-    "id": 194,
-    "title": "Stack Bump",
-    "description": "Stacking puzzle game",
-    "thumbnail": "images/163.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/ChemistyNotes/",
-    "launchCode": "STACK_BUMP"
-  },
-  {
-    "id": 195,
-    "title": "FNAF",
-    "description": "Original horror survival",
-    "thumbnail": "images/164.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/PsychologyStudyAid/",
-    "launchCode": "FNAF"
-  },
-  {
-    "id": 196,
-    "title": "FNAF 2",
-    "description": "Sequel horror survival",
-    "thumbnail": "images/165.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/UDAGOASequel horror survival/",
-    "launchCode": "FNAF_2"
-  },
-  {
-    "id": 197,
-    "title": "FNAF 3",
-    "description": "Third installment horror",
-    "thumbnail": "images/166.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/bug-free-memory/",
-    "launchCode": "FNAF_3"
-  },
-  {
-    "id": 198,
-    "title": "FNAF 4",
-    "description": "Nightmare horror survival",
-    "thumbnail": "images/167.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/crispy-telegram/",
-    "launchCode": "FNAF_4"
-  },
-  {
-    "id": 199,
-    "title": "Madalin Stunt Cars 3",
-    "description": "Car stunt driving",
-    "thumbnail": "images/168.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/BuisnessAssistance/",
-    "launchCode": "MADALIN_STUNT_CARS_3"
-  },
-  {
-    "id": 200,
-    "title": "Tiny Fishing",
-    "description": "Relaxing fishing game",
-    "thumbnail": "images/169.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/GeometryWebAssistance/",
-    "launchCode": "TINY_FISHING"
-  },
-  {
-    "id": 201,
-    "title": "Chrome Dino",
-    "description": "Endless running dinosaur",
-    "thumbnail": "images/170.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/OnlineHistoryHelper/",
-    "launchCode": "CHROME_DINO"
-  },
-  {
-    "id": 202,
-    "title": "Dodge Ball",
-    "description": "Dodgeball game I made (pretty fun)",
-    "thumbnail": "images/171.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/dskadlwasdmw-a/",
-    "launchCode": "DODGE_BALL"
-  },
-  {
-    "id": 203,
-    "title": "Age of War 2",
-    "description": "Evolution strategy game",
-    "thumbnail": "images/172.jpg",
-    "url": "games/58.html",
-    "launchCode": "AGE_OF_WAR_2"
-  },
-  {
-    "id": 204,
-    "title": "Pandemic 2",
-    "description": "Virus spread simulation",
-    "thumbnail": "images/173.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/SocialAssistance/",
-    "launchCode": "PANDEMIC_2"
-  },
-  {
-    "id": 205,
-    "title": "Happy Wheels",
-    "description": "Physics obstacle course",
-    "thumbnail": "images/174.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/SocialStudies/",
-    "launchCode": "HAPPY_WHEELS"
-  },
-  {
-    "id": 206,
-    "title": "Slope",
-    "description": "3D ball rolling game",
-    "thumbnail": "images/175.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/Chikondi-Josey-Spitznageasd/",
-    "launchCode": "SLOPE"
-  },
-  {
-    "id": 207,
-    "title": "Sprinter",
-    "description": "Track running simulation",
-    "thumbnail": "images/176.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/sprinter/",
-    "launchCode": "SPRINTER"
-  },
-  {
-    "id": 208,
-    "title": "Cookie Clicker",
-    "description": "Addictive clicking game",
-    "thumbnail": "images/177.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/AKSDOAW/",
-    "launchCode": "COOKIE_CLICKER"
-  },
-  {
-    "id": 209,
-    "title": "Bitlife",
-    "description": "Life simulation game",
-    "thumbnail": "images/178.jpg",
-    "url": "game/60.html",
-    "launchCode": "BITLIFE"
-  },
-  {
-    "id": 210,
-    "title": "Drift Hunters",
-    "description": "Realistic drifting simulation",
-    "thumbnail": "images/179.jpg",
-    "url": "https://webglmath.github.io/drift-hunters/",
-    "launchCode": "DRIFT_HUNTERS"
-  },
-  {
-    "id": 211,
-    "title": "Cut The Rope",
-    "description": "Physics puzzle game",
-    "thumbnail": "images/180.jpg",
-    "url": "games/61.html",
-    "launchCode": "CUT_THE_ROPE"
-  },
-  {
-    "id": 212,
-    "title": "Sort The Court",
-    "description": "Kingdom management game",
-    "thumbnail": "images/181.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/skdpiwjamoksld/",
-    "launchCode": "SORT_THE_COURT"
-  },
-  {
-    "id": 213,
-    "title": "Tomb of the Mask",
-    "description": "Arcade maze game",
-    "thumbnail": "images/182.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/kdwajdskpwmasd/",
-    "launchCode": "TOMB_OF_THE_MASK"
-  },
-  {
-    "id": 214,
-    "title": "Wordle",
-    "description": "Word guessing puzzle",
-    "thumbnail": "images/183.jpg",
-    "url": "https://bosorioo.github.io/wordle-unlimited/",
-    "launchCode": "WORDLE"
-  },
-  {
-    "id": 215,
-    "title": "Monkey Mart",
-    "description": "Store management tycoon",
-    "thumbnail": "images/184.jpg",
-    "url": "https://khaxlessamazingtutoringhelp.github.io/AmazingAlgebraHelper/",
-    "launchCode": "MONKEY_MART"
-  },
-  {
-    "id": 216,
-    "title": "Short Ride",
-    "description": "Quick racing challenges",
-    "thumbnail": "images/185.jpg",
-    "url": "games/62.html",
-    "launchCode": "SHORT_RIDE"
-  }
-]
+  {"title":"1","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl1.html","type":"pill"},
+  {"title":"10bullets","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl10bullets.html","type":"pill"},
+  {"title":"10minutestildawn","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl10minutestildawn.html","type":"pill"},
+  {"title":"12minibattles","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl12minibattles.html","type":"pill"},
+  {"title":"1on1soccer","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl1on1soccer.html","type":"pill"},
+  {"title":"1v1lol","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl1v1lol.html","type":"pill"},
+  {"title":"1v1tennis","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl1v1tennis.html","type":"pill"},
+  {"title":"2048","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl2048.html","type":"pill"},
+  {"title":"2048cupcakes","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl2048cupcakes.html","type":"pill"},
+  {"title":"2doom","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl2doom.html","type":"pill"},
+  {"title":"2Dshooting","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl2Dshooting.html","type":"pill"},
+  {"title":"3dash","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl3dash.html","type":"pill"},
+  {"title":"3pandas","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl3pandas.html","type":"pill"},
+  {"title":"3pandasbrazil","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl3pandasbrazil.html","type":"pill"},
+  {"title":"3pandasfantasy","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl3pandasfantasy.html","type":"pill"},
+  {"title":"3pandasjapan","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl3pandasjapan.html","type":"pill"},
+  {"title":"3pandasnight","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl3pandasnight.html","type":"pill"},
+  {"title":"3slices2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl3slices2.html","type":"pill"},
+  {"title":"40xescape","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl40xescape.html","type":"pill"},
+  {"title":"4thandgoal","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl4thandgoal.html","type":"pill"},
+  {"title":"500calibercontractz","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl500calibercontractz.html","type":"pill"},
+  {"title":"60secondsburgerrun","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl60secondsburgerrun.html","type":"pill"},
+  {"title":"60secondssantarun","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl60secondssantarun.html","type":"pill"},
+  {"title":"8ballclassic","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl8ballclassic.html","type":"pill"},
+  {"title":"8ballpool","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl8ballpool.html","type":"pill"},
+  {"title":"9007199254740992","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl9007199254740992.html","type":"pill"},
+  {"title":"99balls","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl99balls.html","type":"pill"},
+  {"title":"99nightsitf","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cl99nightsitf.html","type":"pill"},
+  {"title":"abandoned3","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clabandoned3.html","type":"pill"},
+  {"title":"absolutemadness","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clabsolutemadness.html","type":"pill"},
+  {"title":"acecombat2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clacecombat2.html","type":"pill"},
+  {"title":"acecombat3","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clacecombat3.html","type":"pill"},
+  {"title":"acegangstertaxi","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clacegangstertaxi.html","type":"pill"},
+  {"title":"achievementunlocked","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clachievementunlocked.html","type":"pill"},
+  {"title":"achievmentunlocked","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clachievmentunlocked.html","type":"pill"},
+  {"title":"achievmentunlocked2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clachievmentunlocked2.html","type":"pill"},
+  {"title":"achievmentunlocked3","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clachievmentunlocked3.html","type":"pill"},
+  {"title":"achillies","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clachillies.html","type":"pill"},
+  {"title":"achillies2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clachillies2.html","type":"pill"},
+  {"title":"ADarkRoom","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clADarkRoom.html","type":"pill"},
+  {"title":"adayintheoffice","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cladayintheoffice.html","type":"pill"},
+  {"title":"ADOFAI","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clADOFAI.html","type":"pill"},
+  {"title":"advancewars","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cladvancewars.html","type":"pill"},
+  {"title":"advancewars2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/cladvancewars2.html","type":"pill"},
+  {"title":"agesofconflict","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clagesofconflict.html","type":"pill"},
+  {"title":"ahoysurvival","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clahoysurvival.html","type":"pill"},
+  {"title":"ai","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clai.html","type":"pill"},
+  {"title":"akoopasrevenge","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clakoopasrevenge.html","type":"pill"},
+  {"title":"akoopasrevenge2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clakoopasrevenge2.html","type":"pill"},
+  {"title":"akumanorgaiden","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clakumanorgaiden.html","type":"pill"},
+  {"title":"alienhominid","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clalienhominid.html","type":"pill"},
+  {"title":"alienhominidgba","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clalienhominidgba.html","type":"pill"},
+  {"title":"alienskyinvasion","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clalienskyinvasion.html","type":"pill"},
+  {"title":"alientransporter","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clalientransporter.html","type":"pill"},
+  {"title":"alienvspredator","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clalienvspredator.html","type":"pill"},
+  {"title":"allbossesin1","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clallbossesin1.html","type":"pill"},
+  {"title":"allocation","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clallocation.html","type":"pill"},
+  {"title":"amaze","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clamaze.html","type":"pill"},
+  {"title":"amidstthesky","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clamidstthesky.html","type":"pill"},
+  {"title":"amigopancho","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clamigopancho.html","type":"pill"},
+  {"title":"amigopancho2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clamigopancho2.html","type":"pill"},
+  {"title":"amigopancho3","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clamigopancho3.html","type":"pill"},
+  {"title":"amigopancho4","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clamigopancho4.html","type":"pill"},
+  {"title":"amigopancho5","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clamigopancho5.html","type":"pill"},
+  {"title":"amigopancho6","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clamigopancho6.html","type":"pill"},
+  {"title":"amigopancho7","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clamigopancho7.html","type":"pill"},
+  {"title":"amongus","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clamongus.html","type":"pill"},
+  {"title":"amorphous","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clamorphous.html","type":"pill"},
+  {"title":"ancientsins","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clancientsins.html","type":"pill"},
+  {"title":"angry-birdsspace","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clangry-birdsspace.html","type":"pill"},
+  {"title":"angrybirds-space","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clangrybirds-space.html","type":"pill"},
+  {"title":"angrybirds","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clangrybirds.html","type":"pill"},
+  {"title":"angrybirdsshowdown","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clangrybirdsshowdown.html","type":"pill"},
+  {"title":"angrybirdsspace","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clangrybirdsspace.html","type":"pill"},
+  {"title":"animalcrossingwildworld","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clanimalcrossingwildworld.html","type":"pill"},
+  {"title":"anotherworld","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clanotherworld.html","type":"pill"},
+  {"title":"apotris","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clapotris.html","type":"pill"},
+  {"title":"appleshooter","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clappleshooter.html","type":"pill"},
+  {"title":"appleworm","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clappleworm.html","type":"pill"},
+  {"title":"aquaparkio","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/claquaparkio.html","type":"pill"},
+  {"title":"arceuslegend","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clarceuslegend.html","type":"pill"},
+  {"title":"archeryworldtour","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clarcheryworldtour.html","type":"pill"},
+  {"title":"arena","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clarena.html","type":"pill"},
+  {"title":"armormayhem2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clarmormayhem2.html","type":"pill"},
+  {"title":"arsonate","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clarsonate.html","type":"pill"},
+  {"title":"ascent","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clascent.html","type":"pill"},
+  {"title":"asmallworldcup","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clasmallworldcup.html","type":"pill"},
+  {"title":"assessmentexaminationque","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/classesmentexaminationque.html","type":"pill"},
+  {"title":"asteroids","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clasteroids.html","type":"pill"},
+  {"title":"asteroidsALT","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clasteroidsALT.html","type":"pill"},
+  {"title":"attackhole","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clattackhole.html","type":"pill"},
+  {"title":"avalanche","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clavalanche.html","type":"pill"},
+  {"title":"aviamasters","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/claviamasters.html","type":"pill"},
+  {"title":"aviamastersbuggy","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/claviamastersbuggy.html","type":"pill"},
+  {"title":"AwesomePirates","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clAwesomePirates.html","type":"pill"},
+  {"title":"awesomeplanes","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-files/clawesomeplanes.html","type":"pill"},
+  {"title":"awesometanks","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clawesometanks.html","type":"pill"},
+  {"title":"awesometanks2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clawesometanks2.html","type":"pill"},
+  {"title":"B3313","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clB3313.html","type":"pill"},
+  {"title":"babeltower","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbabeltower.html","type":"pill"},
+  {"title":"babychiccoadventure","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbabychiccoadventure.html","type":"pill"},
+  {"title":"babykaizo","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbabykaizo.html","type":"pill"},
+  {"title":"babysniperinvietnam","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbabysniperinvietnam.html","type":"pill"},
+  {"title":"backrooms","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbackrooms.html","type":"pill"},
+  {"title":"backrooms2D","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbackrooms2D.html","type":"pill"},
+  {"title":"backyardbaseball","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbackyardbaseball.html","type":"pill"},
+  {"title":"backyardbaseball09","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbackyardbaseball09.html","type":"pill"},
+  {"title":"backyardbaseball10","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbackyardbaseball10.html","type":"pill"},
+  {"title":"backyardsoccer","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbackyardsoccer.html","type":"pill"},
+  {"title":"baconmaydie","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbaconmaydie.html","type":"pill"},
+  {"title":"badbodyguards","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbadbodyguards.html","type":"pill"},
+  {"title":"badicecream","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbadicecream.html","type":"pill"},
+  {"title":"badmondsimulator","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbadmondsimulator.html","type":"pill"},
+  {"title":"badparenting","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbadparenting.html","type":"pill"},
+  {"title":"badpiggies","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbadpiggies.html","type":"pill"},
+  {"title":"badtimesim","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbadtimesim.html","type":"pill"},
+  {"title":"badtimesimulator","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbadtimesimulator.html","type":"pill"},
+  {"title":"baldidecomp","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbaldidecomp.html","type":"pill"},
+  {"title":"baldisbasics","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbaldisbasics.html","type":"pill"},
+  {"title":"baldisbasicsremaster","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbaldisbasicsremaster.html","type":"pill"},
+  {"title":"baldisfunnewschoolultimate","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbaldisfunnewschoolultimate.html","type":"pill"},
+  {"title":"ballblast","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clballblast.html","type":"pill"},
+  {"title":"ballsandbricks","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clballsandbricks.html","type":"pill"},
+  {"title":"ballsandbricksgood","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clballsandbricksgood.html","type":"pill"},
+  {"title":"bananasimulator","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbananasimulator.html","type":"pill"},
+  {"title":"banditgunslingers","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbanditgunslingers.html","type":"pill"},
+  {"title":"banjokazooie","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbanjokazooie.html","type":"pill"},
+  {"title":"banjotooie","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbanjotooie.html","type":"pill"},
+  {"title":"bankbreakout2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbankbreakout2.html","type":"pill"},
+  {"title":"bankrobbery2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbankrobbery2.html","type":"pill"},
+  {"title":"barryhasasecret","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbarryhasasecret.html","type":"pill"},
+  {"title":"bas","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbas.html","type":"pill"},
+  {"title":"baseballbros","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbaseballbros.html","type":"pill"},
+  {"title":"basketballfrvr","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbasketballfrvr.html","type":"pill"},
+  {"title":"basketballlegends","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbasketballlegends.html","type":"pill"},
+  {"title":"basketballstars","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbasketballstars.html","type":"pill"},
+  {"title":"basketbattle","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbasketbattle.html","type":"pill"},
+  {"title":"basketbros","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbasketbros.html","type":"pill"},
+  {"title":"basketrandom","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbasketrandom.html","type":"pill"},
+  {"title":"basketrandomgood","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbasketrandomgood.html","type":"pill"},
+  {"title":"basketslamdunk2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbasketslamdunk2.html","type":"pill"},
+  {"title":"batterup","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbatterup.html","type":"pill"},
+  {"title":"battlekarts","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbattlekarts.html","type":"pill"},
+  {"title":"battles","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbattles.html","type":"pill"},
+  {"title":"battlesim","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbattlesim.html","type":"pill"},
+  {"title":"battlezone","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbattlezone.html","type":"pill"},
+  {"title":"bazookaboy","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbazookaboy.html","type":"pill"},
+  {"title":"bballlegend","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbballlegend.html","type":"pill"},
+  {"title":"beachboxingsim","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbeachboxingsim.html","type":"pill"},
+  {"title":"beamrider","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbeamrider.html","type":"pill"},
+  {"title":"bearbarians","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbearbararians.html","type":"pill"},
+  {"title":"bearsus","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbearsus.html","type":"pill"},
+  {"title":"ben10alienforce","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clben10alienforce.html","type":"pill"},
+  {"title":"ben10omniverse","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clben10omniverse.html","type":"pill"},
+  {"title":"ben10protector","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clben10protector.html","type":"pill"},
+  {"title":"ben10racing","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clben10racing.html","type":"pill"},
+  {"title":"ben10ultimatealien","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clben10ultimatealien.html","type":"pill"},
+  {"title":"bergentruck201x","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbergentruck201x.html","type":"pill"},
+  {"title":"bfdia5b","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbfdia5b.html","type":"pill"},
+  {"title":"bigicetowertinysquare","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbigicetowertinysquare.html","type":"pill"},
+  {"title":"bigneontowertinysquare","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbigneontowertinysquare.html","type":"pill"},
+  {"title":"bigshotboxing2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbigshotboxing2.html","type":"pill"},
+  {"title":"bigtowertinysquare","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbigtowertinysquare.html","type":"pill"},
+  {"title":"bigtowertinysquare2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbigtowertinysquare2.html","type":"pill"},
+  {"title":"bigtowertinysquare2good","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbigtowertinysquare2good.html","type":"pill"},
+  {"title":"Big_Time_Butter_Baron","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clBig_Time_Butter_Baron.html","type":"pill"},
+  {"title":"bindingofisaccsheeptime","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbindingofisaccsheeptime.html","type":"pill"},
+  {"title":"bioevil4","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbioevil4.html","type":"pill"},
+  {"title":"bitlife","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbitlife.html","type":"pill"},
+  {"title":"bitlifeencrypted","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbitlifeencrypted.html","type":"pill"},
+  {"title":"bitplanes","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbitplanes.html","type":"pill"},
+  {"title":"blackjack","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clblackjack.html","type":"pill"},
+  {"title":"blackjackbattle","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clblackjackbattle.html","type":"pill"},
+  {"title":"blackjackhhhh","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clblackjackhhhh.html","type":"pill"},
+  {"title":"blacksmithlab","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clblacksmithlab.html","type":"pill"},
+  {"title":"blastronaut","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clblastronaut.html","type":"pill"},
+  {"title":"blazedrifter","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clblazedrifter.html","type":"pill"},
+  {"title":"bleachvsnaruto","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbleachvsnaruto.html","type":"pill"},
+  {"title":"blightborne","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clblightborne.html","type":"pill"},
+  {"title":"blobsstory2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clblobsstory2.html","type":"pill"},
+  {"title":"blockblast","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clblockblast.html","type":"pill"},
+  {"title":"blockcraftparkour","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clblockcraftparkour.html","type":"pill"},
+  {"title":"blockcraftshooter","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clblockcraftshooter.html","type":"pill"},
+  {"title":"blockpost","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clblockpost.html","type":"pill"},
+  {"title":"blockthepig","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clblockthepig.html","type":"pill"},
+  {"title":"blockydemolitionderby","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clblockydemolitionderby.html","type":"pill"},
+  {"title":"blockysnakes","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clblockysnakes.html","type":"pill"},
+  {"title":"bloodmoney","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbloodmoney.html","type":"pill"},
+  {"title":"bloodtournament","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbloodtournament.html","type":"pill"},
+  {"title":"bloons","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbloons.html","type":"pill"},
+  {"title":"bloons2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbloons2.html","type":"pill"},
+  {"title":"bloonspp1","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbloonspp1.html","type":"pill"},
+  {"title":"bloonspp2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbloonspp2.html","type":"pill"},
+  {"title":"bloonspp3","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbloonspp3.html","type":"pill"},
+  {"title":"bloonspp4","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbloonspp4.html","type":"pill"},
+  {"title":"bloonspp5","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbloonspp5.html","type":"pill"},
+  {"title":"bloonspp6","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbloonspp6.html","type":"pill"},
+  {"title":"bloonsTD1","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbloonsTD1.html","type":"pill"},
+  {"title":"bloonsTD2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbloonsTD2.html","type":"pill"},
+  {"title":"bloonsTD3","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbloonsTD3.html","type":"pill"},
+  {"title":"bloonsTD4","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbloonsTD4.html","type":"pill"},
+  {"title":"bloonsTD5","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbloonsTD5.html","type":"pill"},
+  {"title":"bloonsTD6scratch","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbloonsTD6scratch.html","type":"pill"},
+  {"title":"bloxorz","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbloxorz.html","type":"pill"},
+  {"title":"blumgiracers","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clblumgiracers.html","type":"pill"},
+  {"title":"BMX2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clBMX2.html","type":"pill"},
+  {"title":"bntts","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbntts.html","type":"pill"},
+  {"title":"bobtherobber","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbobtherobber.html","type":"pill"},
+  {"title":"bobtherobber2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbobtherobber2.html","type":"pill"},
+  {"title":"bobtherobber5","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbobtherobber5.html","type":"pill"},
+  {"title":"bollybeat","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbollybeat.html","type":"pill"},
+  {"title":"bomberman","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbomberman.html","type":"pill"},
+  {"title":"bomberman2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbomberman2.html","type":"pill"},
+  {"title":"bombermanhero","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbombermanhero.html","type":"pill"},
+  {"title":"boomslingers","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clboomslingers.html","type":"pill"},
+  {"title":"bottlecracks","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbottlecracks.html","type":"pill"},
+  {"title":"bottleflip3d","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbottleflip3d.html","type":"pill"},
+  {"title":"bounceback","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbounceback.html","type":"pill"},
+  {"title":"bouncemasters","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbouncemasters.html","type":"pill"},
+  {"title":"bouncymotors","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbouncymotors.html","type":"pill"},
+  {"title":"BountyOfOne","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clBountyOfOne.html","type":"pill"},
+  {"title":"bowlalt","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbowlalt.html","type":"pill"},
+  {"title":"boxhead2playrooms","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clboxhead2playrooms.html","type":"pill"},
+  {"title":"boxheadnightmare","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clboxheadnightmare.html","type":"pill"},
+  {"title":"boxinglive-2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clboxinglive-2.html","type":"pill"},
+  {"title":"boxinglive2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clboxinglive2.html","type":"pill"},
+  {"title":"boxingrandom","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clboxingrandom.html","type":"pill"},
+  {"title":"brainrot","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbrainrot.html","type":"pill"},
+  {"title":"bridgerace","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbridgerace.html","type":"pill"},
+  {"title":"BTD1","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clBTD1.html","type":"pill"},
+  {"title":"btd5","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbtd5.html","type":"pill"},
+  {"title":"btts","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbtts.html","type":"pill"},
+  {"title":"btts2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbtts2.html","type":"pill"},
+  {"title":"bubbleshooter","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbubbleshooter.html","type":"pill"},
+  {"title":"bubbleshooterpirate","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbubbleshooterpirate.html","type":"pill"},
+  {"title":"bubbletanks","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbubbletanks.html","type":"pill"},
+  {"title":"bubbletanks2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbubbletanks2.html","type":"pill"},
+  {"title":"bubbletanks3","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbubbletanks3.html","type":"pill"},
+  {"title":"bubbletanksarenas","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbubbletanksarenas.html","type":"pill"},
+  {"title":"bubbletankstd","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbubbletankstd.html","type":"pill"},
+  {"title":"bubsy","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbubsy.html","type":"pill"},
+  {"title":"buckshotroulette","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbuckshotroulette.html","type":"pill"},
+  {"title":"buildnowgg","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbuildnowgg.html","type":"pill"},
+  {"title":"bunnyland","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbunnyland.html","type":"pill"},
+  {"title":"burgerandfrights","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clburgerandfrights.html","type":"pill"},
+  {"title":"burritobison","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clburritobison.html","type":"pill"},
+  {"title":"burritobison2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clburritobison2.html","type":"pill"},
+  {"title":"burritobisonlaunchalibre","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clburritobisonlaunchalibre.html","type":"pill"},
+  {"title":"burritobisonrevenge","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clburritobisonrevenge.html","type":"pill"},
+  {"title":"bushidoblade","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clbushidoblade.html","type":"pill"},
+  {"title":"cactusmccoy","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcactusmccoy.html","type":"pill"},
+  {"title":"cactusmccoy2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcactusmccoy2.html","type":"pill"},
+  {"title":"cannonballs3d","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcannonballs3d.html","type":"pill"},
+  {"title":"cannonfodder","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcannonfodder.html","type":"pill"},
+  {"title":"capybaraclicker","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcapybaraclicker.html","type":"pill"},
+  {"title":"carcrash3","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcarcrash3.html","type":"pill"},
+  {"title":"cardrawing","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcardrawing.html","type":"pill"},
+  {"title":"careatscar2deluxe","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcareatscar2deluxe.html","type":"pill"},
+  {"title":"carkingarena","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcarkingarena.html","type":"pill"},
+  {"title":"carmods","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcarmods.html","type":"pill"},
+  {"title":"carstuntsdriving","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcarstuntsdriving.html","type":"pill"},
+  {"title":"CartoonNetworkTableTennisUltimateTournament","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clCartoonNetworkTableTennisUltimateTournament.html","type":"pill"},
+  {"title":"castlebloodline","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcastlebloodline.html","type":"pill"},
+  {"title":"castlecircleofmoon","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcastlecircleofmoon.html","type":"pill"},
+  {"title":"castlevania","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcastlevania.html","type":"pill"},
+  {"title":"castlevania2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcastlevania2.html","type":"pill"},
+  {"title":"castlevania3","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcastlevania3.html","type":"pill"},
+  {"title":"castlevaniaariaofsorrow","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcastlevaniaariaofsorrow.html","type":"pill"},
+  {"title":"castlevaniadawnofsorrow","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcastlevaniadawnofsorrow.html","type":"pill"},
+  {"title":"castlevanines","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcastlevanines.html","type":"pill"},
+  {"title":"castlewarsmodern","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcastlewarsmodern.html","type":"pill"},
+  {"title":"catmario","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcatmario.html","type":"pill"},
+  {"title":"catmariogood","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcatmariogood.html","type":"pill"},
+  {"title":"catslovecake2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcatslovecake2.html","type":"pill"},
+  {"title":"cavestory","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcavestory.html","type":"pill"},
+  {"title":"celeste","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clceleste.html","type":"pill"},
+  {"title":"celeste2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clceleste2.html","type":"pill"},
+  {"title":"cellardoor","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcellardoor.html","type":"pill"},
+  {"title":"chaosfaction2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clchaosfaction2.html","type":"pill"},
+  {"title":"checkers","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcheckers.html","type":"pill"},
+  {"title":"cheesechompers3d","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcheesechompers3d.html","type":"pill"},
+  {"title":"cheshireinachatroom","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcheshireinachatroom.html","type":"pill"},
+  {"title":"chess","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clchess.html","type":"pill"},
+  {"title":"chessclassic","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clchessclassic.html","type":"pill"},
+  {"title":"chibiknight","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clchibiknight.html","type":"pill"},
+  {"title":"chickencream","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clchickencream.html","type":"pill"},
+  {"title":"chickenwar","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clchickenwar.html","type":"pill"},
+  {"title":"chipschallenge","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clchipschallenge.html","type":"pill"},
+  {"title":"choppyorc","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clchoppyorc.html","type":"pill"},
+  {"title":"chronotrigger","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clchronotrigger.html","type":"pill"},
+  {"title":"chuzzle","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clchuzzle.html","type":"pill"},
+  {"title":"CircloO2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clCircloO2.html","type":"pill"},
+  {"title":"civiballs","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clciviballs.html","type":"pill"},
+  {"title":"civiballs2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clciviballs2.html","type":"pill"},
+  {"title":"clashofvikings","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clclashofvikings.html","type":"pill"},
+  {"title":"classof09","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clclassof09.html","type":"pill"},
+  {"title":"cleanupio","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcleanupio.html","type":"pill"},
+  {"title":"clearvision","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clclearvision.html","type":"pill"},
+  {"title":"clearvision2","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clclearvision2.html","type":"pill"},
+  {"title":"clearvision3","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clclearvision3.html","type":"pill"},
+  {"title":"clearvision4","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clclearvision4.html","type":"pill"},
+  {"title":"clearvision5","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clclearvision5.html","type":"pill"},
+  {"title":"clmadnessambulation","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clclmadnessambulation.html","type":"pill"},
+  {"title":"clubbytheseal","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clclubbytheseal.html","type":"pill"},
+  {"title":"clusterrush","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ubs-singlefile/UGS-Files/clclusterrush.html","type":"pill"},
+  {"title":"coallcdemo","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcoallcdemo.html","type":"pill"},
+  {"title":"cod4","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcod4.html","type":"pill"},
+  {"title":"codblackopp","description":"Pill game","thumbnail":"","url":"https://cdn.jsdelivr.net/gh/bubbls/ugs-singlefile/UGS-Files/clcodblackopp.html","type":"pill"}
